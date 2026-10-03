@@ -1,0 +1,6 @@
+{
+  "name": "CutAgent AI - Editor de Video & Copiloto CapCut",
+  "description": "Agente inteligente para editar videos largos, extraer clips virales para TikTok/Reels, cortar silencios y exportar proyectos listos para CapCut o renderizar directamente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
